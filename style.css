@@ -97,3 +97,7 @@ body {
   color: var(--verde);
   text-transform: uppercase;
 }
+
+.aba-conteudo {
+  display: none;
+}
